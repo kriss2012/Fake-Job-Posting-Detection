@@ -1,4 +1,4 @@
-# Fake-Job-Posting-Detection
+
 # 🛡️ Fake Job Posting Detection
 
 A machine learning web application that detects whether a job posting is **Real** or **Fraudulent** based on its text content (title, description, requirements, etc.). Built with Python, Scikit-Learn, and Streamlit, and ready for deployment on Render.
